@@ -6,9 +6,9 @@
 package cardtrickice1;
 
 /** define card value and suits
- * 
  *
- * @author sivagamasrinivasan
+ * @author Gurminder Singh
+ * Student id: 991657830
  */
 public class Card 
 {
